@@ -1,0 +1,3 @@
+Wolframalpha api
+wikipedia api
+wxPython library for GUI
